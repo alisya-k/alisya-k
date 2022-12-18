@@ -6,6 +6,9 @@ I am a computer engineer that enjoys working in both software development and cy
 
 Hacking Series (Penetration testing, reverse engineering, CTF write ups): https://medium.com/@971080
 
+Creating a Non-Collateralized Stablecoin: https://github.com/alisyakainth/stablecoin
+
+
 <!--
 **alisyakainth/alisyakainth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

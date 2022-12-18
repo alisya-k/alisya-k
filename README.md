@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I'm Alisya,
+
+I am a computer engineer that enjoys working in both software development and cyber security. 
+
+## Here are some of my projects:
+
+Hacking Series (Penetration testing, reverse engineering, CTF write ups): https://medium.com/@971080
 
 <!--
 **alisyakainth/alisyakainth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

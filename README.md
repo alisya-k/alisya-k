@@ -1,1 +1,1 @@
-<img src="https://github.com/alisya-k/alisya-k/blob/main/Radio.gif" width="100" /> &nbsp;&nbsp;<text>&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;***I like to make things.***&nbsp;]&nbsp;&nbsp;</text> &nbsp;&nbsp; <img src="https://github.com/alisya-k/alisya-k/blob/main/pea.gif" width="80" />
+<img src="https://github.com/alisya-k/alisya-k/blob/main/Radio.gif" width="160" /> &nbsp;&nbsp;<text>&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;***I like to make things.***&nbsp;]&nbsp;&nbsp;</text> &nbsp;&nbsp; <img src="https://github.com/alisya-k/alisya-k/blob/main/pea_remastered.gif" width="150" />
